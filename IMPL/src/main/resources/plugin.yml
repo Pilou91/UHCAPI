@@ -1,0 +1,5 @@
+name: UHCAPI
+version: 0.1
+author: Pilou91
+main: fr.pilou.uhcapi.ImplPlugin
+load: STARTUP
